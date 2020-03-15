@@ -4,10 +4,4 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+I am an AI/Machine Learning/Deep Learning Enthusiast. A Novice, An Avid Learner and A Cartoon Lover. I should explain a little about the image of Popeye. Spinach is what gives Popeye his strength. I think the Spinach Can is the Hardware available nowdays, and the Spinach itself is the Data. Popeye is like our Deep Learning Algorithm. I have worked on a number of projects and I thought it would be a good idea to blog about those. I have learned a lot of things just by reading other people's blog and I thought to do the same. Please feel free to point out my mistakes so that I can learn from it and improve my skills. Thanks!❤
